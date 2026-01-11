@@ -1,0 +1,4 @@
+This repository presents a basic, surface-level simulation of the BB84 Quantum Key Distribution protocol,created for 
+educational and conceptual understanding of quantum cryptography. The currently uploaded files demonstrate the core ideas 
+such as quantum bit encoding, basis selection, key sifting, and basic eavesdropping detection. This version is an initial 
+implementation. The complete and finalized project will be uploaded soon after confirmation and approval from my project guide.
